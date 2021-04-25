@@ -1,0 +1,47 @@
+.bg-image{
+  --background: url(../../assets/icon/livv.jpg);
+  margin-top: -5%;
+  
+}
+  
+  .header h2{
+    
+    color :white;
+    font-weight: Bold;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 50px;
+    font-family: Aharoni;
+    }
+
+.image{
+  height: 130px;
+  width: 130px;
+  border-radius: -10%;
+  overflow: hidden;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+ // margin-top: 5px;
+}
+ion-card{
+  --ion-background-color :  rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  //margin-top: 10px;
+  box-shadow:2px 3px 1px 5px #eeee;
+  border-radius: 25px;
+  margin-top: -5%;
+ 
+.padding{
+    padding: 10%;
+}
+ion-button{
+  //background: #fc3200cb;
+  font-size: 30px;
+}
+}
+
+
+
